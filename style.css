@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Dax;
+}
+header {
+    background-image: linear-gradient(to right, crimson, gold);
+    padding: 20px 40px;
+}
+.myProjects {
+    padding: 20px 24px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+#numberle {
+    background-color: #3050aa;
+    font-family: Monospace;
+    color: white;
+    font-size: 18px;
+}
